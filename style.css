@@ -4,6 +4,7 @@
 }
 
 body {
+  font-family: sans-serif;
 }
 
 .header {
@@ -35,7 +36,6 @@ body {
   color: #bec1c6;
   font-size: 15px;
   text-decoration: none;
-  font-family: sans-serif;
 }
 
 .leftnav li a:hover {
@@ -46,7 +46,6 @@ body {
   background-color: #131f2b;
   color: #bec1c6;
   border: 1px solid #131f2b;
-  font-family: sans-serif;
   font-size: 15px;
 }
 
@@ -108,7 +107,6 @@ body {
 
 h1 {
   color: #dbdcdd;
-  font-family: sans-serif;
   margin-bottom: 10px;
 }
 
@@ -152,7 +150,6 @@ h1 {
 
 .season li p {
   margin: 15px;
-  font-family: sans-serif;
   font-size: 15px;
   color: #c5cacf;
 }
@@ -198,6 +195,33 @@ h1 {
 .cont p {
   margin-right: 5px;
   font-size: 17px;
-  font-family: sans-serif;
   color: #d5d6d7;
+  margin-bottom: 10px;
+}
+
+table {
+  color: #405165;
+  font-family: sans-serif;
+  margin-bottom: 70px;
+}
+
+.tam {
+  padding-right: 10px;
+  text-align: left;
+}
+.ta {
+  color: #507ca4;
+}
+
+.tan {
+  color: #405165;
+}
+
+footer {
+  color: #405165;
+}
+
+footer a {
+  text-decoration: none;
+  color: #507ca4;
 }
